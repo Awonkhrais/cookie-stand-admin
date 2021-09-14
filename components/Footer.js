@@ -1,11 +1,8 @@
-export default function Footer() {
+export default function Footer(props) {
 
-return(
-
-<footer className="p-4 bg-green-500 text-xl">
-    &copy; 2021
-</footer>
-
-)
+    return (
+    <footer className="mb-30 p-4 bg-green-500 ">
+        {props.number_of_locations} Locations World Wide
+    </footer>)
 
 }
