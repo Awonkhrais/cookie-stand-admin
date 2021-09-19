@@ -1,5 +1,7 @@
 # Next.js + Tailwind CSS Example
 
+deployed link : https://cookie-stand-admin-kohl.vercel.app/
+
 # PR link :
 
 ## lab37 : https://github.com/Awonkhrais/cookie-stand-admin/pull/1
